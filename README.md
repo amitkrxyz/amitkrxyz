@@ -7,6 +7,9 @@
 ██║  ██║██║ ╚═╝ ██║██║   ██║   ██║  ██╗██║  ██║██╔╝ ██╗   ██║   ███████╗
 ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
 ```
+
+![](https://komarev.com/ghpvc/?username=amitkrxyz)
+
 [Gists](https://gist.github.com/amitkrxyz)
                                                                             
 
