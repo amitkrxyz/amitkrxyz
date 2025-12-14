@@ -8,7 +8,7 @@
 ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
 ```
 
-![](https://komarev.com/ghpvc/?username=amitkrxyz)
+![](https://komarev.com/ghpvc/?username=amitkrxyz&style=for-the-badge)
 
 [Gists](https://gist.github.com/amitkrxyz)
                                                                             
